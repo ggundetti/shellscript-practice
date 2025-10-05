@@ -5,5 +5,5 @@ Person2=$2
 Person3=$3
 
 echo "$Person1:: Hi ra $Person2 & $Person3"
-echo "$person2:: Hi ra $Person1, tinnavara"
-echo "$Person3:: arey $person2, vadu $Person1, tinadu ra"
+echo "$Person2:: Hi ra $Person1, tinnavara"
+echo "$Person3:: arey $Person2, vadu $Person1, tinadu ra"
