@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+echo "Ramesh:: hi bro, how r u"
+echo "Ravi:: I`m good bro, how r u"
+echo "what r the plans for today"
+echo "nothing new, as usual"
