@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+$Person1=Hari
+$Person2=Ram
+
+echo "$Person1:: How r u $Person2"
+echo "$Person2:: Im good $Person1"
+echo "Person1:: wt r the plans $Person2"
+echo "Person2:: nothing"
