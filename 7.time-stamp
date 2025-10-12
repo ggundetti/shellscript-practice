@@ -8,5 +8,4 @@ END_TIME=$(date +%S)
 
 TOTAL_TIME=$(($END_TIME-$START_TIME))
 
-echo "The script run time is $TOTAL_TIME
-
+echo "The script run time is $TOTAL_TIME"
