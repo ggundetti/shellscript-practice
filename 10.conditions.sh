@@ -8,4 +8,4 @@ elif [ $NUMBER -gt 10 ]; then
     echo "given $NUMBER is greater than 10"
 else
     echo "given number is equals to 10"
-    
+fi
