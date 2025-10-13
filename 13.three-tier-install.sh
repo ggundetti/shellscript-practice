@@ -12,13 +12,13 @@ else
     echo "The installation of MySQL is SUCCESS"
 fi
 
-dnf install nginix -y
+dnf install nginx -y
 
 if [ $? -ne 0 ]; then
-    echo ""ERROR:: NGINIX installation failed"
+    echo ""ERROR:: NGINX installation failed"
     exit 1
 else
-    echo "The NGINIX installation is SUCCESS"
+    echo "The NGINX installation is SUCCESS"
 fi
 
 dnf install mongodb-mongosh -y
