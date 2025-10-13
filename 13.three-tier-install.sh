@@ -27,5 +27,4 @@ if [ $? -ne 0 ]; then
     exit 1
 else
     echo "Mongo DB installation is success"
-
 fi
