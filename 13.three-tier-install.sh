@@ -10,6 +10,7 @@ if [ $? -ne 0 ]; then
     exit 1
 else
     echo "The installation of MySQL is SUCCESS"
+fi
 
 dnf install nginix -y
 
@@ -18,6 +19,7 @@ if [ $? -ne 0 ]; then
     exit 1
 else
     echo "The NGINIX installation is SUCCESS"
+fi
 
 dnf install mongodb-mongosh -y
 
